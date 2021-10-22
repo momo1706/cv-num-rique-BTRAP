@@ -1,0 +1,55 @@
+header{
+    
+    height: 800px;
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+    
+
+    padding-left: 29px;  
+    font-family: 'Big Shoulders Stencil Text', cursive;  
+}
+
+.title1 {
+    margin-top: 250px;
+    color: red;
+    font-weight: bold;
+    
+}
+.title2 {
+    color: aliceblue;
+    font-weight: bold;
+}
+.button_header{
+    font-weight: 900;
+
+margin-top: 20px;
+}
+.page-section{
+    margin-bottom: 500px;
+}
+#services{
+   
+    background-color: #d8d7d7;
+}
+.fab,.fas{
+    font-size:150px;
+    color: #141e2a;
+   margin-top: 100px;
+}
+.section-heading{
+    font-weight: bold;
+}
+#doneLogo{
+    font-size: 15px;
+}
+#section_title{
+    padding-top: 93px;
+
+}
+#section_content{
+    margin-bottom: 120px;
+    padding-bottom: 100px;;
+}
